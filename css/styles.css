@@ -1,4 +1,7 @@
 body {
-    color: gray;
-    background: black;
-}
+  color: blue;
+  background-color: black; }
+  body ul li {
+    color: blue; }
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,9 @@
+$my-color: blue;
+
+body {
+ color: $my-color;
+ background-color: black;
+ ul li {
+    color: $my-color;
+ }
+}
